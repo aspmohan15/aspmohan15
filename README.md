@@ -54,7 +54,7 @@ I thrive in collaborative environments, turning design mockups into elegant, mai
 ### 👨‍💻 Front-End Engineer
 
 **2hub Travel**
-📍 Remote | 🗓️ Aug 2022 – Feb 2023
+📍 coimbatore | 🗓️ Aug 2022 – Feb 2023
 
 * Developed responsive B2B travel platform using **React**, **Next.js**, and **MUI**.
 * Built interactive UIs with **Flickity** and custom React components.
@@ -67,7 +67,7 @@ I thrive in collaborative environments, turning design mockups into elegant, mai
 ### 👨‍💻 Full Stack Engineer
 
 **Kalanju**
-📍 Remote | 🗓️ Apr 2022 – Aug 2022
+📍 coimbatore | 🗓️ Apr 2022 – Aug 2022
 
 * Built dynamic UI using **React**, **MUI**, and **Bootstrap**, with **TypeScript** for scalability.
 * Developed **RESTful APIs** with **Node.js** and **Fastify**, integrated with **PostgreSQL**.
