@@ -95,7 +95,7 @@ I thrive in collaborative environments, turning design mockups into elegant, mai
 ## 🌍 Connect With Me
 
 * **Email:** [aspmohan15@gmail.com](mailto:aspmohan15@gmail.com)
-* **YouTube:** [crazy clicks](https://www.youtube.com/@twinsaitech)
+* **YouTube:** [crazy clicks](https://www.youtube.com/@crazyclicks5236)
 * **Blog:** [crazytechpark.blogspot.com](https://crazytechpark.blogspot.com)
 
 ---
