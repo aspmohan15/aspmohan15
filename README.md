@@ -33,13 +33,13 @@ Analytics     Adobe Analytics, Google Analytics, CleverTap
 
 ## 💼 Experience
 
-**Senior Product Engineer** — Aditya Birla Fashion & Retail Ltd *(Feb 2022 – Present)*
+**Senior Product Engineer (Contract)** — Aditya Birla Fashion & Retail Ltd *(Feb 2022 – Present)*
 > High-scale e-commerce · React.js, Next.js, Node.js, Redis, PostgreSQL
 
-**Product Engineer (Contract)** — 2hub Travel *(Aug 2022 – Jan 2023)*
+**Product Engineer** — 2hub Travel *(Nov 2022 – Feb 2023)*
 > B2B travel platform · React.js, Next.js, REST APIs
 
-**Software Engineer Intern** — Kalanju *(Jan 2022 – Aug 2022)*
+**Software Engineer Intern** — Kalanju *(Jan 2022 – Oct 2022)*
 > Node.js, Fastify, PostgreSQL, React, TypeScript
 
 ---
